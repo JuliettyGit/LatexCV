@@ -20,6 +20,7 @@ jobs:
           fonts-roboto \
           fonts-adobe-sourcesans3 \
           ;
+        fc-cache -fv
 
     - name: Compile
       run: make
