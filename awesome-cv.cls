@@ -175,7 +175,7 @@
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
 \definecolor{awesome-british}{HTML}{366353}
-\colorlet{awesome}{awesome-red}
+\colorlet{awesome}{awesome-british}
 \colorlet{sectiondivider}{awesome}
 
 % Boolean value to switch section color highlighting
