@@ -165,7 +165,6 @@
 \colorlet{text}{darkgray}
 \colorlet{graytext}{gray}
 \colorlet{lighttext}{lightgray}
-\colorlet{sectiondivider}{awesome}
 % Awesome colors
 \definecolor{awesome-emerald}{HTML}{00A388}
 \definecolor{awesome-skyblue}{HTML}{0395DE}
@@ -175,7 +174,9 @@
 \definecolor{awesome-nephritis}{HTML}{27AE60}
 \definecolor{awesome-concrete}{HTML}{95A5A6}
 \definecolor{awesome-darknight}{HTML}{131A28}
+\definecolor{awesome-british}{HTML}{366353}
 \colorlet{awesome}{awesome-red}
+\colorlet{sectiondivider}{awesome}
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
